@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">test-preInterview-kritsana</string>
+
+    //for subject a
+    <string name="total_sale">Total Sale %d</string>
+    <string name="sale_of_a">Sale of a is %d\%%</string>
+    <string name="sale_of_b">Sale of b is %d\%%</string>
+    <string name="sale_of_c">Sale of c is %d\%%</string>
+
 </resources>
