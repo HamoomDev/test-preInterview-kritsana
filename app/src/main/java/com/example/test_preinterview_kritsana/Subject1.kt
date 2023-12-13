@@ -3,7 +3,6 @@ package com.example.test_preinterview_kritsana
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.test_preinterview_kritsana.databinding.ActivityMainBinding
 import com.example.test_preinterview_kritsana.databinding.ActivitySubject1Binding
 import kotlin.math.roundToInt
 

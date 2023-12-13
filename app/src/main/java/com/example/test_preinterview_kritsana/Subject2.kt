@@ -3,7 +3,6 @@ package com.example.test_preinterview_kritsana
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.test_preinterview_kritsana.databinding.ActivitySubject2Binding
-import kotlin.random.Random
 
 class Subject2 : AppCompatActivity() {
     private lateinit var binding: ActivitySubject2Binding
