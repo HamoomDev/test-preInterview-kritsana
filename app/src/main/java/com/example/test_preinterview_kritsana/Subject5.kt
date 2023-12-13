@@ -51,7 +51,7 @@ class Subject5 : AppCompatActivity() {
                     }
                 }
                 else -> {
-                    
+                    // Ignore other characters
                 }
             }
 
